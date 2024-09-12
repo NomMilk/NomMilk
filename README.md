@@ -6,10 +6,11 @@
 I am most adapted to programming video games on the Unity Engine.
 I've also dabbled in web development.</p>
 <pre align = "center">
-.
-":"
-            ___:____     |"\/"|
-         ,'        `.    \  /
-         |  O        \___/  |
-~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+                                 __       __
+                     '.'--.--'.-'
+       .,_------.___,   \' r'
+       ', '-._a      '-' .'
+        '.    '-'Y \._  /
+          '--;____'--.'-,
+           /..'       '''
 </pre>
