@@ -7,8 +7,8 @@ I am most adapted to programming video games on the Unity Engine.
 I've also dabbled in web development.</p>
 <div align = "center">
     <pre>
-       .
-      ":"
+    .
+   ":"
     ___:____     |"\/"|
   ,'        `.    \  /
   |  O        \___/  |
